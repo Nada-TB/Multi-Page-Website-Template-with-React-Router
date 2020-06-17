@@ -6,7 +6,6 @@ import './style.css';
 
 function App() {
   return (
-    <HashRouter basename="/">
       <Router>
       < Navigation/>
       <Switch>
@@ -17,7 +16,6 @@ function App() {
       <Footer/>
   
       </Router>
-    </HashRouter>
   );
 }
 
