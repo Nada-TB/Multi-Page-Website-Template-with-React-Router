@@ -1,10 +1,26 @@
-# mutlti-pages-react-website
+# mutlti pages react website template:
+### See result : https://nada-tb.github.io/mutlti-pages-react-website/#/
 
-### prupose :
+* ### [The application's features](#the-applications-features-1)
+* ### [Programming concepts applied](#programming-concepts-applied-1)
 
-* create a multi page react website
-* use ROUTER
-* Deploy React Apps with React Router to Github Pages
+## The application's features:
+* Create a simple template for a web site with multiple pages.
+* Build a navbar.
+* Build the home page.
+* Build the About page.
+* Build the contact page.
+* Build the footer.
+
+## Programming concepts applied:
+React.js|
+--------|
+react-router-dom|
+Link
+withRouter
+Route
+switch
 
 
-## view result here : [github](https://nada-tb.github.io/mutlti-pages-react-website/#/)
+
+
