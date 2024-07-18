@@ -25,7 +25,7 @@ This project is a basic template for a multi-page website built with React.js an
 
 ### Live Demo
 
-Check out the live demo [here](https://nada-tb.github.io/mutlti-pages-react-website/#/).
+Check out the live demo 
 
 
 ## Requirements
